@@ -1,0 +1,26 @@
+{
+  "name": "introNodeJS",
+  "version": "1.0.0",
+  "description": "decouverte nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeryShinigami/introNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeryShinigami/introNodeJS/issues"
+  },
+  "homepage": "https://github.com/ValeryShinigami/introNodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
